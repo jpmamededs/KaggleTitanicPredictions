@@ -127,17 +127,3 @@ O modelo Random Forest identifica as features mais relevantes para a previsão d
 - [ ] Gerar predições para o arquivo de teste
 - [ ] Submeter resultados para o Kaggle
 
-## 📄 Licença
-
-Este projeto é open source e está disponível sob a licença MIT.
-
-## 👤 Autor
-
-Desenvolvido como parte do aprendizado de Machine Learning e participação em competições do Kaggle.
-
----
-
-<div align="center">
-  <p>⭐ Se este projeto foi útil, considere dar uma estrela!</p>
-  <p>🚢 Happy Kaggling! 🚢</p>
-</div>
